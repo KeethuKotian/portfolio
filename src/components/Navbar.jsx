@@ -30,7 +30,7 @@ export default function Navbar({ activeSection, onNavigate }) {
             setIsOpen(false);
           }}
         >
-          <span className="text-anime-orange text-xl sm:text-2xl">🗡️</span>
+          <img src="/zangetsu.svg" alt="Logo" className="w-6 h-6 sm:w-8 sm:h-8" />
          K. Kotian
         </div>
         

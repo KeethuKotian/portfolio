@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/katana.png" alt="Sword Icon" width="80"/>
+  <img src="./public/zangetsu.svg" alt="Zangetsu Icon" width="80"/>
   
   <h1>Keerthan's 3D Interactive Portfolio</h1>
   <p><strong>A cinematic, anime-inspired personal portfolio built with React, Three.js, and GSAP.</strong></p>
