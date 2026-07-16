@@ -74,7 +74,7 @@ This will generate a `dist` directory containing all the minified, production-re
 Feel free to reach out to me for collaborations or just to say hi!
 
 - **GitHub:** [KeethuKotian](https://github.com/KeethuKotian)
-- **LinkedIn:** [Keerthan Kotian](https://www.linkedin.com/in/keerthan-k-966b11213/)
+- **LinkedIn:** [Keerthan Kotian](https://www.linkedin.com/in/keerthan-kotian-458565305)
 - **Email:** [keerthankotian05@gmial.com](keerthankotian05@gmial.com)
 
 ---
